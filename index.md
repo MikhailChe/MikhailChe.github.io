@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Привет!
+list_title: Записки
 ---
 
 
