@@ -4,6 +4,9 @@ author: Михаил Черноскутов
 email: mikhail.chernoskutov@gmail.cm
 description: Мои добрые дела ©2018
 github_username:  mikhailche
+show_downloads: false
+
+logo: imgs/logo.png
 
 # Build settings
 markdown: kramdown
