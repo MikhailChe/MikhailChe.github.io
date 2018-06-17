@@ -1,18 +1,7 @@
 ---
 layout: page
-title: About
+title: Обо мне
 ---
-
-This is an about page about this awesome site.
-Hope you love it!
-
-Reasons:
-- its great.
-- its a test.
-
-## Other thoughts
-
-This is great.
 
 # Обо мне
 
