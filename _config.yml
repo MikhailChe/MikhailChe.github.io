@@ -1,13 +1,13 @@
 # basic options
-title: Dolika. Портфолио
-author: Михаил Черноскутов
-email: mikhail.chernoskutov@gmail.cm
-description: Мои добрые дела ©2018
-github_username:  mikhailche
-show_downloads: false
+#title: Dolika. Портфолио
+#author: Михаил Черноскутов
+#email: mikhail.chernoskutov@gmail.cm
+#description: Мои добрые дела ©2018
+#github_username:  mikhailche
+#show_downloads: false
 
-logo: imgs/logo.png
+#logo: imgs/logo.png
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 theme: jekyll-theme-minimal
