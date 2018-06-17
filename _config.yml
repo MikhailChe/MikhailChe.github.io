@@ -1,1 +1,8 @@
+# basic options
+title: Hello, I am title
+author: Черноскутов Михаил
+email: m.c@g.co
+description: Моё портфолио
+
+# Build settings
 theme: jekyll-theme-minimal
