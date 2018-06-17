@@ -1,10 +1,9 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Dolika. Портфолио
+author: Михаил Черноскутов
+email: mikhail.chernoskutov@gmail.cm
+description: Мои добрые дела
+github_username:  mikhailche
 
 # Build settings
 markdown: kramdown
