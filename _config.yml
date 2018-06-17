@@ -1,5 +1,10 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+# basic options
+title: Dolika. Портфолио
+author: Михаил Черноскутов
+email: mikhail.chernoskutov@gmail.cm
+description: Мои добрые дела ©2018
+github_username:  mikhailche
+
+# Build settings
+markdown: kramdown
 theme: minima
