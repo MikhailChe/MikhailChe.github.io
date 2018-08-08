@@ -19,13 +19,13 @@ title: АО "Усилитель с высоким КУ"
 
 Питание усилителя защищено от переолюсовки и перенапряжения.
 
-![](/images/usbAmp/SCH_2.jpg)
+![](/images/usbAmp/SCH_2.JPG)
 
 Печатная плата
 
-![](/images/usbAmp/PCB_TOP.jpg)
+![](/images/usbAmp/PCB_TOP.JPG)
 
-![](/images/usbAmp/PCB_BOT.jpg)
+![](/images/usbAmp/PCB_BOT.JPG)
 
 Живое устройство рядом со своим блоком питания
 
