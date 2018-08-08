@@ -54,4 +54,4 @@ void loop() {
 ```
 
 Видео с более подробным объяснением происходящего 
-![![](https://img.youtube.com/vi/3GDlF9QQbS0/0.jpg)](https://youtu.be/3GDlF9QQbS0)
+[![](https://img.youtube.com/vi/3GDlF9QQbS0/0.jpg)](https://youtu.be/3GDlF9QQbS0)
